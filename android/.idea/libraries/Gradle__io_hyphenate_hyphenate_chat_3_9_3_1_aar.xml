@@ -1,0 +1,22 @@
+<component name="libraryTable">
+  <library name="Gradle: io.hyphenate:hyphenate-chat:3.9.3.1@aar">
+    <ANNOTATIONS>
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-3/174f416ab5e66a966e564f772117a8ea/transformed/jetified-hyphenate-chat-3.9.3.1/annotations.zip!/" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-3/955cf1dc83e14eb5a52f5b0bb47c8cc8/transformed/jetified-hyphenate-chat-3.9.3.1/annotations.zip!/" />
+    </ANNOTATIONS>
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-3/174f416ab5e66a966e564f772117a8ea/transformed/jetified-hyphenate-chat-3.9.3.1/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/174f416ab5e66a966e564f772117a8ea/transformed/jetified-hyphenate-chat-3.9.3.1/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/174f416ab5e66a966e564f772117a8ea/transformed/jetified-hyphenate-chat-3.9.3.1/AndroidManifest.xml" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/955cf1dc83e14eb5a52f5b0bb47c8cc8/transformed/jetified-hyphenate-chat-3.9.3.1/AndroidManifest.xml" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-3/955cf1dc83e14eb5a52f5b0bb47c8cc8/transformed/jetified-hyphenate-chat-3.9.3.1/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/955cf1dc83e14eb5a52f5b0bb47c8cc8/transformed/jetified-hyphenate-chat-3.9.3.1/res" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/io.hyphenate/hyphenate-chat/3.9.3.1/68d8c6190f0a0b106503728b5ef8f8b1397e3073/hyphenate-chat-3.9.3.1-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/io.hyphenate/hyphenate-chat/3.9.3.1/619fd778e862e3f9411d3a4fe868b8054d4fd61a/hyphenate-chat-3.9.3.1-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
